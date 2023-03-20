@@ -179,6 +179,10 @@ header h2 {
   margin: 400px 0 250px;
 }
 
+.about-bold {
+  font-family: "font-bold";
+}
+
 .img1 {
   background: url(../img/pp_portfolio.png) top/cover;
 }
